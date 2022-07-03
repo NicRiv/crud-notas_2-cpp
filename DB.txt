@@ -1,0 +1,8 @@
+9
+;id:1;titulo:un titulo;contenido:un ejemploo de contenido
+;id:2;titulo:titu 2;contenido:un dos de contenido
+;id:3;titulo:Titulo 3;contenido:contenido del trees
+;id:4;titulo:Titulo 4;contenido:contenido del sasasd
+;id:7;titulo:titulo esp;contenido:Un contenido con espacios
+;id:6;titulo:tit del 6;contenido:Ahora si se graba todo bien
+;id:8;titulo:Nueva;contenido:Ahora estoy probando el menu
