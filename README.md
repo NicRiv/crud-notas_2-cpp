@@ -4,6 +4,8 @@
 
 _Version: 1.0_
 
+---
+
 Menu: 
 	* 1. Crear nota
 	* 2. Ver notas
@@ -12,7 +14,7 @@ Menu:
 	* 5. Borrar nota {por id}
 	* 0. Salir
 
----
+
 
 ## Compilar
 	g++ main.cc funciones.cc -o crud-notas
